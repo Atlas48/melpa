@@ -1,0 +1,4 @@
+(org-wiki
+ :fetcher github
+ :repo "caiorss/org-wiki")
+ 
